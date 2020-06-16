@@ -1,0 +1,73 @@
+{
+    "students": [
+        {
+            "id": 1,
+            "name": "A",
+            "courses": [
+                {
+                    "id": 1,
+                    "name": "Biology",
+                    "teacher": "Mr. D",
+                    "courseAverage": 90.1
+                },
+                {
+                    "id": 2,
+                    "name": "History",
+                    "teacher": " Mrs. P",
+                    "courseAverage": 51.8
+                },
+                {
+                    "id": 3,
+                    "name": "Math",
+                    "teacher": " Mrs. C",
+                    "courseAverage": 74.2
+                }
+            ],
+            "totalAverage": 72.03
+        },
+        {
+            "id": 2,
+            "name": "B",
+            "courses": [
+                {
+                    "id": 1,
+                    "name": "Biology",
+                    "teacher": "Mr. D",
+                    "courseAverage": 50.099999999999994
+                },
+                {
+                    "id": 3,
+                    "name": "Math",
+                    "teacher": " Mrs. C",
+                    "courseAverage": 74.2
+                }
+            ],
+            "totalAverage": 62.15
+        },
+        {
+            "id": 3,
+            "name": "C",
+            "courses": [
+                {
+                    "id": 1,
+                    "name": "Biology",
+                    "teacher": "Mr. D",
+                    "courseAverage": 90.1
+                },
+                {
+                    "id": 2,
+                    "name": "History",
+                    "teacher": " Mrs. P",
+                    "courseAverage": 51.8
+                },
+                {
+                    "id": 3,
+                    "name": "Math",
+                    "teacher": " Mrs. C",
+                    "courseAverage": 74.2
+                }
+            ],
+            "totalAverage": 72.03
+        }
+    ]
+}
